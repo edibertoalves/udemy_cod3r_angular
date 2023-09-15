@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": 5000
+    },
+    {
+      "name": "Lápis Preto Fabar Castell",
+      "price": "2",
+      "id": 4
+    },
+    {
+      "name": "Geladeira Duplex Brastemp 🤣",
+      "price": "2.000",
+      "id": 5
+    },
+    {
+      "name": "Home Theater LG",
+      "price": "1500",
+      "id": 6
+    },
+    {
+      "name": "Smart TV",
+      "price": "1900",
+      "id": 7
+    }
+  ]
+}

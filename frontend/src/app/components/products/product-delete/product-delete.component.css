@@ -1,0 +1,19 @@
+.custom-css-class {
+    background-color: green;
+    color: white;
+    
+}
+
+.custom-css-class-error {
+    background-color: red;
+    color: white;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-right: 10px;
+}
